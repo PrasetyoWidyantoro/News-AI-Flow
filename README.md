@@ -10,8 +10,8 @@ In today's information-driven world, the sheer volume of news can overwhelm both
 News analysis in field of News QnA, Sentiment, and Summary using Streamlit as user interface
 
 **Clone git** \
-`$ git clone https://github.com/Ishaq101/News-Analysis-Toolkit-Using-Streamlit.git` \
-`$ cd News-Analysis-Toolkit-Using-Streamlit` 
+`$ git clone https://github.com/PrasetyoWidyantoro/News-AI-Flow.git` \
+`$ cd News-AI-Flow` 
 
 **Create conda env** \
 `$ conda create -n venv python=3.10` \
@@ -33,7 +33,7 @@ News analysis in field of News QnA, Sentiment, and Summary using Streamlit as us
 <caption><b>Question and Answer</b></caption>
 
 Input: Text or News URL\
-Steps:\
+Steps:
 1. Enter text/URL in input box
 2. Click on `Submit` button
 3. Begin your conversation with submitted news in chat box on below of page
